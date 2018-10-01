@@ -1,3 +1,3 @@
 # Tumbleweed
 
-![solarized dualmode](https://github.com/ValentineStone/Tumbleweed/raw/master/screenshot.png)
+![Tumbleweed](https://github.com/ValentineStone/Tumbleweed/raw/master/screenshot.png)
